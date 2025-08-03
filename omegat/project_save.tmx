@@ -12,6 +12,22 @@
         <seg>Kunyina uu zyi caka citika.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No one knows.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250803T121210Z" creationid="lweendela" creationdate="20250803T121210Z">
+        <seg>Kunyina uu zyi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No one laughed.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250803T121131Z" creationid="lweendela" creationdate="20250803T121131Z">
+        <seg>Kunyina ooka seka.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
