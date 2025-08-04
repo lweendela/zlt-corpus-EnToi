@@ -70,6 +70,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My hands are bound.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T200525Z" creationid="lweendela" creationdate="20250804T200525Z">
+        <seg>Maanza aangu a li angidwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My hands are clean.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T200603Z" creationid="lweendela" creationdate="20250804T200603Z">
+        <seg>Maanza aangu a la salala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My hands are cold.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T200642Z" creationid="lweendela" creationdate="20250804T200642Z">
+        <seg>Maanza aangu a la tontola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My hands are dirty.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T200707Z" creationid="lweendela" creationdate="20250804T200707Z">
+        <seg>Maanza aangu a laa tombe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No one knows what happened.</seg>
       </tuv>
       <tuv lang="toi" changeid="lweendela" changedate="20250803T120945Z" creationid="lweendela" creationdate="20250803T120945Z">
