@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My father has many houses.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T193352Z" creationid="lweendela" creationdate="20250804T193352Z">
+        <seg>Bataata ba laa maanda manji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No one knows what happened.</seg>
       </tuv>
       <tuv lang="toi" changeid="lweendela" changedate="20250803T120945Z" creationid="lweendela" creationdate="20250803T120945Z">
