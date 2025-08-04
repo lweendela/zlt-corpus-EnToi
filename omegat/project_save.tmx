@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My girlfriend was crying.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T194336Z" creationid="lweendela" creationdate="20250804T194336Z">
+        <seg>Musimbi wangu waka li kulila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My granddaughter is listening to my wife.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T195820Z" creationid="lweendela" creationdate="20250804T195820Z">
+        <seg>Muzyukulu wangu u swiilila ku mukaintu wangu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No one knows what happened.</seg>
       </tuv>
       <tuv lang="toi" changeid="lweendela" changedate="20250803T120945Z" creationid="lweendela" creationdate="20250803T120945Z">
