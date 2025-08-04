@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My hands and legs are swollen.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T200501Z" creationid="lweendela" creationdate="20250804T200501Z">
+        <seg>Maanza a maulu aangu a li zimbide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No one knows what happened.</seg>
       </tuv>
       <tuv lang="toi" changeid="lweendela" changedate="20250803T120945Z" creationid="lweendela" creationdate="20250803T120945Z">
