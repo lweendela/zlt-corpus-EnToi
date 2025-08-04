@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My father is not sick.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T193823Z" creationid="lweendela" creationdate="20250804T193823Z">
+        <seg>Bataata ta ba cisidwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My girlfriend is a teacher.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T193925Z" creationid="lweendela" creationdate="20250804T193925Z">
+        <seg>Musimbi wangu mwiiyi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My girlfriend is crying.</seg>
+      </tuv>
+      <tuv lang="toi" changeid="lweendela" changedate="20250804T194118Z" creationid="lweendela" creationdate="20250804T194118Z">
+        <seg>Musimbi wangu u la lila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No one knows what happened.</seg>
       </tuv>
       <tuv lang="toi" changeid="lweendela" changedate="20250803T120945Z" creationid="lweendela" creationdate="20250803T120945Z">
